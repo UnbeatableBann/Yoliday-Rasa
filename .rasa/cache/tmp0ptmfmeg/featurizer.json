@@ -1,0 +1,64 @@
+{
+  "type": "MaxHistoryTrackerFeaturizer",
+  "state_featurizer": {
+    "action_texts": [],
+    "entity_tag_specs": [],
+    "feature_states": {
+      "intent": {
+        "ask_weather": 0,
+        "back": 1,
+        "fallback": 2,
+        "faq_how_plan_trip": 3,
+        "faq_what_is_rasa": 4,
+        "faq_who_built_you": 5,
+        "goodbye": 6,
+        "greet": 7,
+        "nlu_fallback": 8,
+        "out_of_scope": 9,
+        "provide_travel_info": 10,
+        "recommend_packing": 11,
+        "restart": 12,
+        "session_start": 13
+      },
+      "action_name": {
+        "action_listen": 0,
+        "action_restart": 1,
+        "action_session_start": 2,
+        "action_default_fallback": 3,
+        "action_deactivate_loop": 4,
+        "action_revert_fallback_events": 5,
+        "action_default_ask_affirmation": 6,
+        "action_default_ask_rephrase": 7,
+        "action_two_stage_fallback": 8,
+        "action_unlikely_intent": 9,
+        "action_back": 10,
+        "...": 11,
+        "action_extract_slots": 12,
+        "action_fetch_weather": 13,
+        "action_recommend_packing": 14,
+        "utter_fallback": 15,
+        "utter_faq_how_plan_trip": 16,
+        "utter_faq_what_is_rasa": 17,
+        "utter_faq_who_built_you": 18,
+        "utter_goodbye": 19,
+        "utter_greet": 20,
+        "travel_form": 21
+      },
+      "entities": {
+        "end_date": 0,
+        "location": 1,
+        "start_date": 2
+      },
+      "slots": {
+        "location_0": 0,
+        "start_date_0": 1,
+        "end_date_0": 2
+      },
+      "active_loop": {
+        "travel_form": 0
+      }
+    }
+  },
+  "remove_duplicates": true,
+  "max_history": 5
+}

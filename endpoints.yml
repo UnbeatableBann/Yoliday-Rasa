@@ -1,0 +1,4 @@
+action_endpoint:
+  url: "http://localhost:5055/webhook"
+  #url: "https://rasa-action-server-wtf5.onrender.com"
+  #url: "https://yoliday-actions.onrender.com/webhook"

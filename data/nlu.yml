@@ -1,0 +1,221 @@
+version: "3.1"
+nlu:
+- intent: greet
+  examples: |
+    - hi
+    - hello
+    - good morning
+    - how are you
+    - hey
+    - what's up
+    - all good?
+    - hey there!
+    - hi, how’s it going?
+    - hello bot
+    - good afternoon
+    - morning!
+    - howdy
+    - yo
+    - greetings
+    - hi, can you help me?
+    - hey, are you there?
+    - hi, nice to meet you
+    - hello, how’s your day?
+    - hi! I need some help
+    - hey, what can you do?
+    - hi, can we chat?
+
+- intent: goodbye
+  examples: |
+    - bye
+    - see you later
+    - goodbye
+    - catch you later
+    - talk to you later
+    - have a nice day
+    - take care
+    - see you soon
+    - I’m off, bye!
+    - goodbye for now
+    - bye bye
+    - catch you on the flip side
+    - later!
+    - I gotta go, bye
+    - talk soon!
+    - see ya!
+    - have a great day ahead
+    - bye, thanks for the help
+    - I’m done for now, bye
+    - peace out!
+
+- intent: ask_weather
+  examples: |
+    - what's the weather in [Pune](location)?
+    - what's the weather in [Goa](location)?
+    - weather in [Delhi](location)
+    - how's the weather in [Manali](location)?
+    - weather forecast for [Kerala](location)
+    - what's the weather like in [Mumbai](location)?
+    - tell me the weather in [Bangalore](location)
+    - how's the weather in [Chennai](location)?
+    - what's the weather in [Hyderabad](location)?
+    - weather in [Jaipur](location)
+    - how's the weather in [Kolkata](location)?
+    - what's the weather in [Agra](location)?
+    - weather forecast for [Ahmedabad](location)
+    - is it raining in [Mumbai](location) today?
+    - will it snow in [Manali](location) this week?
+    - do I need an umbrella in [Chennai](location)?
+    - give me the weather update for [Delhi](location)
+    - how hot is it in [Goa](location) right now?
+    - temperature in [Bangalore](location) today?
+    - is it sunny in [Pune](location)?
+    - weather conditions in [Hyderabad](location) tomorrow?
+    - can you check the weather in [Mumbai](location) for the weekend?
+    - what’s the forecast for [Delhi](location) this week?
+    - how’s the weather looking in [Kerala](location) for the next 3 days?
+    - will it be windy in [Goa](location) tomorrow?
+    - is there any chance of thunderstorms in [Bangalore](location)?
+
+- intent: recommend_packing
+  examples: |
+    - what should I pack for [Manali](location)?
+    - packing advice for [Kerala](location)
+    - what to take for [Goa](location)?
+    - packing tips for [Pune](location)
+    - what should I bring to [Delhi](location)?
+    - what to pack for [Mumbai](location)?
+    - packing list for [Bangalore](location)
+    - what should I carry for [Chennai](location)?
+    - what to take for [Hyderabad](location)?
+    - packing essentials for [Jaipur](location)
+    - what should I pack for [Kolkata](location)?
+    - packing tips for [Agra](location)
+    - what to bring for [Ahmedabad](location)
+    - is a jacket necessary for [Manali](location)?
+    - do I need sunscreen for [Goa](location)?
+    - what kind of clothes should I pack for [Kerala](location) in summer?
+    - suggest packing list for rainy season in [Mumbai](location)
+    - packing help for winter trip to [Pune](location)
+    - what shoes to carry for [Bangalore](location)?
+    - should I pack an umbrella for [Chennai](location)?
+    - recommended travel gear for [Jaipur](location)
+    - lightweight packing tips for [Hyderabad](location)
+    - what gadgets should I bring for my trip to [Delhi](location)?
+    - should I bring a hat for [Goa](location)?
+    - packing advice for a family trip to [Kerala](location)
+    - I’m traveling to [Mumbai](location), what should I pack?
+    - list the must-have items for [Bangalore](location)
+    - I’m going on a business trip to [Pune](location), what do I need to pack?
+    - what to carry for a beach vacation in [Goa](location)?
+
+- intent: faq_what_is_rasa
+  examples: |
+    - What is Rasa?
+    - Tell me about Rasa
+    - Explain Rasa
+    - What does Rasa do?
+    - What is the purpose of Rasa?
+    - Can you describe Rasa framework?
+    - What can I build with Rasa?
+    - How does Rasa work?
+    - Why should I use Rasa?
+    - Is Rasa open source?
+    - Give me an overview of Rasa
+    - What makes Rasa different from other chatbot platforms?
+    - Can you explain the Rasa architecture?
+    - How do developers use Rasa?
+    - What are the key features of Rasa?
+    - Is Rasa suitable for enterprise bots?
+    - What programming languages does Rasa use?
+    - How is Rasa better than Dialogflow or Wit.ai?
+    - What kinds of bots can be built with Rasa?
+
+- intent: faq_how_plan_trip
+  examples: |
+    - How do I plan a trip?
+    - I want to plan my trip
+    - Guide me on trip planning
+    - How can I plan a trip?
+    - What are the steps to plan a trip?
+    - How to plan a trip?
+    - Can you help me plan a vacation?
+    - What should I consider when planning a trip?
+    - Tips for planning a holiday
+    - How to organize a travel itinerary?
+    - Best way to prepare for a trip?
+    - Can you suggest a travel plan for me?
+    - What’s the process for planning a trip?
+    - I want a checklist for trip planning
+    - How do I budget for a trip?
+    - What apps help with travel planning?
+    - How to choose destinations for a trip?
+    - How to book flights and hotels efficiently?
+    - What documents do I need for travel?
+    - How early should I start planning my trip?
+
+- intent: faq_who_built_you
+  examples: |
+    - Who built you?
+    - Who trained you?
+    - Who created you?
+    - Who made you?
+    - Who is your creator?
+    - Who developed you?
+    - Who is behind you?
+    - Are you created by humans?
+    - Which company made you?
+    - Tell me about your creators
+    - Who coded you?
+    - Who programmed you?
+    - Who’s responsible for you?
+    - Who designed this chatbot?
+    - Who’s your developer team?
+    - Is this bot made by Rasa developers?
+    - Who maintains you?
+
+- intent: fallback
+  examples: |
+    - ksdjflksdjf
+    - blabla
+    - jfn
+    - hrein
+    - asdfasdf
+    - what is this?
+    - I don't understand
+    - can you repeat?
+    - sorry, I didn’t get that
+    - what do you mean?
+    - that makes no sense
+    - I’m confused
+    - I don’t follow
+    - can you explain?
+    - I didn’t catch that
+    - could you say that again?
+    - I’m not sure what you mean
+    - that’s unclear
+    - please clarify
+
+- intent: provide_travel_info
+  examples: |
+    - I want to go to [Goa](location) from [June 10](start_date) to [June 15](end_date)
+    - I need travel assistance for [Kolkata](location) from [December 5](start_date) to [December 10](end_date)
+    - [Manali](location) trip from [May 1](start_date) to [May 5](end_date)
+    - I need travel info for [Pune](location) from [July 20](start_date) to [July 25](end_date)
+    - Help me plan a trip to [Delhi](location) from [August 5](start_date) to [August 10](end_date)
+    - I want to visit [Mumbai](location) from [September 15](start_date) to [September 20](end_date)
+    - Plan a trip to [Bangalore](location) from [October 1](start_date) to [October 5](end_date)
+    - Book me a trip to [Kerala](location) from [Dec 10](start_date) to [Dec 15](end_date)
+    - Traveling to [Ahmedabad](location) between [April 1](start_date) and [April 7](end_date)
+    - Need a travel plan for [Jaipur](location) starting [March 10](start_date) until [March 15](end_date)
+    - I’m going to [Kolkata](location) from [Jan 20](start_date) to [Jan 25](end_date)
+    - Trip dates are [November 5](start_date) to [November 12](end_date) for [Hyderabad](location)
+    - Visiting [Chennai](location) from [July 1](start_date) to [July 6](end_date)
+    - Can you help with travel plans for [Bangalore](location) from [Oct 10](start_date) to [Oct 15](end_date)?
+    - Planning a vacation to [Goa](location) starting [May 3](start_date) till [May 9](end_date)
+    - I want to travel to [Pune](location) next month from [June 5](start_date) to [June 10](end_date)
+    - Please find travel options to [Delhi](location) from [July 1](start_date) to [July 7](end_date)
+    - Can you arrange a trip to [Mumbai](location) from [August 20](start_date) to [August 25](end_date)?
+    - Help me schedule a trip to [Kerala](location) for [September 10](start_date) to [September 15](end_date)
+    - I’m looking to travel to [Jaipur](location) from [November 1](start_date) till [November 5](end_date)
+    - I need travel assistance for [Kolkata](location) from [December 5](start_date) to [December 10](end_date)

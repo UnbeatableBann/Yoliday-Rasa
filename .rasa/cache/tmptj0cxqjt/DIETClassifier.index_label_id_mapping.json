@@ -1,0 +1,11 @@
+{
+  "0": "ask_weather",
+  "1": "fallback",
+  "2": "faq_how_plan_trip",
+  "3": "faq_what_is_rasa",
+  "4": "faq_who_built_you",
+  "5": "goodbye",
+  "6": "greet",
+  "7": "provide_travel_info",
+  "8": "recommend_packing"
+}
