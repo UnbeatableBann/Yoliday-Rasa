@@ -1,23 +1,75 @@
-# Yoliday Travel Assistant Bot - Rasa Internship Assessment
+# 🌴 Yoliday Travel Assistant Bot — Rasa Internship Assessment
 
-Welcome to the Yoliday Travel Assistant Bot! This project was built using the Rasa framework as part of the Yoliday Rasa Bot Development Internship Assessment.
+Welcome to the **Yoliday Travel Assistant Bot**, an intelligent chatbot built using the [Rasa](https://rasa.com) framework. This project was created as part of the Yoliday Rasa Bot Development Internship Assessment.
+
+The assistant helps users with travel planning, weather updates, itinerary suggestions, and packing recommendations.
 
 ---
 
-## Setup Steps
+## 📦 Features
+
+* Weather-based recommendations
+* Smart packing suggestions
+* Trip itinerary planning
+* Natural, conversational experience using Rasa NLU + custom actions
+
+---
+
+## 🚀 Live Deployments
+
+| Service          | Link                                                                           |
+| ---------------- | ------------------------------------------------------------------------------ |
+| Rasa Server   | [https://yoliday-rasa.onrender.com](https://yoliday-rasa.onrender.com)         |
+| Frontend UI   | [Frontend Render](https://yoliday-rasa.onrender.com)                           |
+
+To pull and run the image:
+
+```bash
+docker pull yourusername/yoliday-rasa-backend
+```
+
+---
+## 🔌 Test Rasa Server with cURL
+
+Use the following cURL command to send a message to the deployed Rasa server:
+
+```bash
+curl -X POST https://rasa-qor5.onrender.com/webhooks/rest/webhook \
+     -H "Content-Type: application/json" \
+     -d '{"sender": "test_user", "message": "Hi"}'
+```
+
+This will return the bot’s response from the Rasa server.
+
+---
+
+## 🐳 Docker Image Links
+
+| Component          | Docker Image URL                                               |
+| ------------------ | -------------------------------------------------------------- |
+| Rasa with frontend | `docker.io/unbeatablebann/rasa`                                |
+
+---
+
+## ⚙️ Local Setup Instructions
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/UnbeatableBann/Yoliday-Rasa-Chatbot-backend.git
+git clone https://github.com/UnbeatableBann/Yoliday-Rasa.git
 cd Yoliday-Rasa-Chatbot-backend
 ```
 
-### 2. Create a Virtual Environment
+### 2. Create and Activate Virtual Environment
 
 ```bash
+# Windows
 python -m venv venv
 venv\Scripts\activate
+
+# macOS/Linux
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 ### 3. Install Dependencies
@@ -32,47 +84,70 @@ pip install -r requirements.txt
 rasa train
 ```
 
-### 5. Start Rasa Action Server
+### 5. Start the Action Server
 
 ```bash
 rasa run actions
 ```
 
-### 6. Start Rasa Server
+### 6. Start the Rasa Server
 
 ```bash
-rasa run --enable-api --cors "*" --port $PORT
+rasa run --enable-api --cors "*" --port 5005
 ```
 
-### 7. Start the Frontend
+---
 
-Open the `frontend/index.html` file in your browser or deploy it on Render.
+## 🌐 Frontend Setup
+
+### Deploy on Render
+
+1. Go to [https://render.com](https://render.com) → **New → Static Site**.
+2. Connect your GitHub repo and choose the frontend folder.
+3. Set **Publish Directory** to `frontend`.
+4. Done! Your frontend will be hosted like:
+   [Yoliday Frontend](https://yoliday-rasa.onrender.com)
 
 ---
 
 ## 💬 Sample Conversation
 
-```
-User: Hi
+```plaintext
+User: Hi  
 Bot: Hello! How can I help you with your travel plans today?
 
-User: I want to check the weather in Mumbai
-Bot: Please wait while I fetch the weather for Mumbai...
+User: I want to check the weather in Mumbai  
+Bot: Please wait while I fetch the weather for Mumbai...  
 Bot: The current weather in Mumbai is 32°C, partly cloudy. You should pack light clothing and sunscreen!
 
-User: What is Rasa?
+User: What is Rasa?  
 Bot: Rasa is an open-source machine learning framework for building AI assistants.
 
-User: Bye
+User: Bye  
 Bot: Goodbye! Have a great trip!
 ```
 
 ---
 
-## Deployed Version
+## 📂 Project Structure
 
-* **Rasa Server**: [https://yoliday-rasa-bot.onrender.com](https://yoliday-rasa.onrender.com)
-* **Action Server**: [https://yoliday-action-server.onrender.com](https://yoliday-actions.onrender.com)
-* **Frontend Chat UI**: [https://yoliday-frontend.onrender.com](https://yoliday-frontend.onrender.com)
+```
+Yoliday-Rasa/
+├── actions/                # Custom Python actions
+├── data/                   # NLU training data
+├── domain.yml              # Assistant's knowledge base
+├── config.yml              # NLP pipeline and policies
+├── models/                 # Trained models
+├── frontend/               # Static HTML + JS chatbot UI
+├── Dockerfile              # Docker build config
+└── requirements.txt        # Python dependencies
+└── start.sh                # Start command
+```
 
-Feel free to try out the bot and explore its features!
+---
+
+## 📬 Contact / Credits
+
+This bot was developed by **Shadab Jamadar** as part of the **Yoliday Rasa Internship Assessment**.
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/shadab-jamadar-aa9b38252/)
+💻 Explore more at [GitHub](https://github.com/UnbeatableBann)
