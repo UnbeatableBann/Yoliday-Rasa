@@ -150,5 +150,5 @@ Yoliday-Rasa/
 ## 📬 Contact / Credits
 
 This bot was developed by **Shadab Jamadar** as part of the **Yoliday Rasa Internship Assessment**.
-🔗 Connect on [LinkedIn](https://www.linkedin.com/in/shadab-jamadar-aa9b38252/)
-💻 Explore more at [GitHub](https://github.com/UnbeatableBann)
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/shadab-jamadar-aa9b38252/)
+- 💻 Explore more at [GitHub](https://github.com/UnbeatableBann)
