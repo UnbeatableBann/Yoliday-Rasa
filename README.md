@@ -19,14 +19,8 @@ The assistant helps users with travel planning, weather updates, itinerary sugge
 
 | Service          | Link                                                                           |
 | ---------------- | ------------------------------------------------------------------------------ |
-| Rasa Server   | [https://yoliday-rasa.onrender.com](https://yoliday-rasa.onrender.com)         |
+| Rasa Server   | [Rasa Render](https://yoliday-rasa.onrender.com)         |
 | Frontend UI   | [Frontend Render](https://yoliday-rasa.onrender.com)                           |
-
-To pull and run the image:
-
-```bash
-docker pull yourusername/yoliday-rasa-backend
-```
 
 ---
 ## 🔌 Test Rasa Server with cURL
@@ -48,6 +42,12 @@ This will return the bot’s response from the Rasa server.
 | Component          | Docker Image URL                                               |
 | ------------------ | -------------------------------------------------------------- |
 | Rasa with frontend | `docker.io/unbeatablebann/rasa`                                |
+
+To pull and run the image:
+
+```bash
+docker pull yourusername/yoliday-rasa-backend
+```
 
 ---
 
