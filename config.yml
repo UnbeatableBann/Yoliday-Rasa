@@ -1,0 +1,24 @@
+recipe: default.v1
+language: en
+
+pipeline:
+- name: WhitespaceTokenizer
+- name: CRFEntityExtractor
+- name: EntitySynonymMapper
+- name: LexicalSyntacticFeaturizer
+- name: CountVectorsFeaturizer
+- name: CountVectorsFeaturizer
+  analyzer: "char_wb"
+  min_ngram: 1
+  max_ngram: 4
+- name: LogisticRegressionClassifier
+- name: ResponseSelector
+  epochs: 50
+- name: FallbackClassifier
+  threshold: 0.4
+  ambiguity_threshold: 0.1
+
+policies:
+- name: MemoizationPolicy
+- name: RulePolicy
+assistant_id: 20250615-195340-brutal-lightship

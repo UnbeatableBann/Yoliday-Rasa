@@ -1,0 +1,94 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - ask_weather
+  - recommend_packing
+  - faq_what_is_rasa
+  - faq_how_plan_trip
+  - faq_who_built_you
+  - fallback
+  - provide_travel_info
+  - bot_challenge
+  - affirm
+
+entities:
+  - location
+  - start_date
+  - end_date
+
+slots:
+  location:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: location
+      - type: from_text
+
+  start_date:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: start_date
+      - type: from_text
+
+  end_date:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: end_date
+      - type: from_text
+
+  weather_description:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: custom
+
+forms:
+  travel_form:
+    required_slots:
+      - location
+      - start_date
+      - end_date
+
+responses:
+  utter_greet:
+    - text: "Hi! I'm your travel buddy. How can I help?"
+
+  utter_goodbye:
+    - text: "Goodbye! Have a great trip!"
+
+  utter_faq_what_is_rasa:
+    - text: "Rasa is an open-source framework for chatbots."
+
+  utter_faq_who_built_you:
+    - text: "I was built by a Rasa intern (Shadab) for Yoliday!"
+
+  utter_faq_how_plan_trip:
+    - text: "Tell me your destination and dates — I’ll help you plan!"
+
+  utter_fallback:
+    - text: "Sorry, I didn't get that. Can you rephrase?"
+
+  utter_iamabot:
+    - text: "I am a bot, built with Rasa."
+
+  utter_submit:
+    - text: "Thanks! Your travel info has been submitted."
+
+  utter_ask_destination_city:
+    - text: "Which city are you traveling to?"
+
+  utter_ask_start_date:
+    - text: "What is your start date?"
+
+  utter_ask_end_date:
+    - text: "What is your end date?"
+
+actions:
+  - action_fetch_weather
+  - action_recommend_packing
+  - action_reset_slots
+  - action_plan_itinerary_advanced

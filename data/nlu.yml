@@ -1,0 +1,110 @@
+version: "3.1"
+nlu:
+- intent: greet
+  examples: |
+    - hi
+    - hello
+    - good morning
+    - how are you?
+    - hello bot
+    - howdy
+    - hi there, travel assistant!
+    - hi, ready to plan a trip?
+
+- intent: goodbye
+  examples: |
+    - bye
+    - see you later
+    - goodbye
+    - have a nice day
+    - catch you next time
+    - see you, assistant
+    - thanks, bye!
+    - see you, have a great trip!
+
+- intent: ask_weather
+  examples: |
+    - what's the weather in [Pune](location)?
+    - weather in [Delhi](location)
+    - is it raining in [Mumbai](location) today?
+    - will it snow in [Manali](location) this week?
+    - do I need an umbrella in [Chennai](location)?
+    - how's the weather in [New York](location)?
+    - what's the weather in [Singapore](location)?
+    - weather in [Toronto](location)
+    - how's the weather in [Cape Town](location)?
+
+- intent: recommend_packing
+  examples: |
+    - what should I pack for [Manali](location)?
+    - packing advice for [Kerala](location)
+    - what to take for [Goa](location)?
+    - packing tips for [Pune](location)
+    - should I pack an umbrella for [Chennai](location)?
+    - recommended travel gear for [Jaipur](location)
+    - lightweight packing tips for [London](location)
+    - what gadgets should I bring for my trip to [Moscow](location)?
+    - should I bring a hat for [Saudi Arabia](location)?
+    - packing advice for a family trip to [Dubai](location)
+
+- intent: faq_what_is_rasa
+  examples: |
+    - What is Rasa?
+    - Tell me about Rasa
+    - Explain Rasa
+    - What does Rasa do?
+    - What is the purpose of Rasa?
+    - Why should I use Rasa?
+    - Is Rasa open source?
+
+- intent: faq_how_plan_trip
+  examples: |
+    - How do I plan a trip?
+    - I want to plan my trip
+    - What are the steps to plan a trip?
+    - Tips for planning a holiday
+    - How to organize a travel itinerary?
+
+- intent: faq_who_built_you
+  examples: |
+    - Who built you?
+    - Who created you?
+    - Who made you?
+    - Are you created by humans?
+    - Which company made you?
+
+- intent: fallback
+  examples: |
+    - ksdjflksdjf
+    - blabla
+    - jfn
+    - ewfnreuvbgos
+    - Irejnfieruhowitj
+    - can you repeat?did it?
+    - sorry, I got lost there
+    - I’m confused, friend
+    - can you explain that again?
+
+- intent: provide_travel_info
+  examples: |
+    - I want to go to [Goa](location) from [June 10](start_date) to [June 15](end_date)
+    - I need travel assistance for [Kolkata](location) from [December 5](start_date) to [December 10](end_date)
+    - [Manali](location) trip from [May 1](start_date) to [May 5](end_date)
+    - Traveling to [Ahmedabad](location) between [April 1](start_date) and [April 7](end_date)
+    - [Cape Town](location) [December 1](start_date) to [December 8](end_date)
+    - I want to go to [Spain](location) just to relax
+    - can you help me plan a last-minute trip to [London](location)?
+    - [Jeddah](location) is my dream destination for this summer
+    - I want to go to [Hongkong](location) for some adventure
+
+- intent: affirm
+  examples: |
+    - yes
+    - absolutely
+    - of course
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you human?
+    - am I talking to a bot?

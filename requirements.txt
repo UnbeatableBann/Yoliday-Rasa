@@ -1,0 +1,6 @@
+safetensors
+requests
+python-dotenv
+rasa==3.6.21
+rasa-sdk==3.6.2
+sanic-cors==2.0.1

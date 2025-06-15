@@ -1,0 +1,54 @@
+{
+  "lookup": {
+    "rules": {
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"bot_challenge\"}}]": "utter_iamabot",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"bot_challenge\"}}, {\"prev_action\": {\"action_name\": \"utter_iamabot\"}, \"user\": {\"intent\": \"bot_challenge\"}}]": "action_listen",
+      "[{\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"travel_form\"}}]": "action_fetch_weather",
+      "[{\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"travel_form\"}}, {\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"action_fetch_weather\"}}]": "action_recommend_packing",
+      "[{\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"travel_form\"}}, {\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"action_fetch_weather\"}}, {\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"action_recommend_packing\"}}]": "action_plan_itinerary_advanced",
+      "[{\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"travel_form\"}}, {\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"action_fetch_weather\"}}, {\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"action_recommend_packing\"}}, {\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"action_plan_itinerary_advanced\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"faq_what_is_rasa\"}}]": "utter_faq_what_is_rasa",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"faq_what_is_rasa\"}}, {\"prev_action\": {\"action_name\": \"utter_faq_what_is_rasa\"}, \"user\": {\"intent\": \"faq_what_is_rasa\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"provide_travel_info\"}}]": "travel_form",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"provide_travel_info\"}}, {\"active_loop\": {\"name\": \"travel_form\"}, \"prev_action\": {\"action_name\": \"travel_form\"}, \"user\": {\"intent\": \"provide_travel_info\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"fallback\"}}]": "utter_fallback",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"fallback\"}}, {\"prev_action\": {\"action_name\": \"utter_fallback\"}, \"user\": {\"intent\": \"fallback\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_weather\"}}]": "action_fetch_weather",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_weather\"}}, {\"prev_action\": {\"action_name\": \"action_fetch_weather\"}, \"user\": {\"intent\": \"ask_weather\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"goodbye\"}}]": "utter_goodbye",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"goodbye\"}}, {\"prev_action\": {\"action_name\": \"utter_goodbye\"}, \"user\": {\"intent\": \"goodbye\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"faq_who_built_you\"}}]": "utter_faq_who_built_you",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"faq_who_built_you\"}}, {\"prev_action\": {\"action_name\": \"utter_faq_who_built_you\"}, \"user\": {\"intent\": \"faq_who_built_you\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_recommend_packing\"}}]": "action_reset_slots",
+      "[{\"prev_action\": {\"action_name\": \"action_recommend_packing\"}}, {\"prev_action\": {\"action_name\": \"action_reset_slots\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"recommend_packing\"}}]": "action_fetch_weather",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"recommend_packing\"}}, {\"prev_action\": {\"action_name\": \"action_fetch_weather\"}, \"user\": {\"intent\": \"recommend_packing\"}}]": "action_recommend_packing",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"recommend_packing\"}}, {\"prev_action\": {\"action_name\": \"action_fetch_weather\"}, \"user\": {\"intent\": \"recommend_packing\"}}, {\"prev_action\": {\"action_name\": \"action_recommend_packing\"}, \"user\": {\"intent\": \"recommend_packing\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"greet\"}}]": "utter_greet",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"greet\"}}, {\"prev_action\": {\"action_name\": \"utter_greet\"}, \"user\": {\"intent\": \"greet\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"faq_how_plan_trip\"}}]": "utter_faq_how_plan_trip",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"faq_how_plan_trip\"}}, {\"prev_action\": {\"action_name\": \"utter_faq_how_plan_trip\"}, \"user\": {\"intent\": \"faq_how_plan_trip\"}}]": "action_listen"
+    },
+    "rule_only_slots": [],
+    "rule_only_loops": [],
+    "rules_for_loop_unhappy_path": {
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}}, {\"active_loop\": {\"name\": \"travel_form\"}, \"prev_action\": {\"action_name\": \"travel_form\"}, \"user\": {\"intent\": \"provide_travel_info\"}}]": "do_not_predict_loop_action"
+    },
+    "rules_not_in_stories": [
+      "predicting default action with intent session_start",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_weather\"}}]",
+      "predicting default action with intent back",
+      "predicting default action with intent restart",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"bot_challenge\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"recommend_packing\"}}, {\"prev_action\": {\"action_name\": \"action_fetch_weather\"}, \"user\": {\"intent\": \"recommend_packing\"}}, {\"prev_action\": {\"action_name\": \"action_recommend_packing\"}, \"user\": {\"intent\": \"recommend_packing\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_weather\"}}, {\"prev_action\": {\"action_name\": \"action_fetch_weather\"}, \"user\": {\"intent\": \"ask_weather\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"recommend_packing\"}}, {\"prev_action\": {\"action_name\": \"action_fetch_weather\"}, \"user\": {\"intent\": \"recommend_packing\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_recommend_packing\"}}, {\"prev_action\": {\"action_name\": \"action_reset_slots\"}}]",
+      "handling active loops and forms - travel_form - action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"recommend_packing\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"bot_challenge\"}}, {\"prev_action\": {\"action_name\": \"utter_iamabot\"}, \"user\": {\"intent\": \"bot_challenge\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_recommend_packing\"}}]",
+      "handling active loops and forms - travel_form"
+    ]
+  }
+}

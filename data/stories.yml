@@ -1,0 +1,66 @@
+version: "3.1"
+stories:
+- story: say goodbye and end conversation
+  steps:
+    - intent: goodbye
+    - action: utter_goodbye
+
+- story: faq - what is rasa
+  steps:
+    - intent: faq_what_is_rasa
+    - action: utter_faq_what_is_rasa
+
+- story: faq - how plan trip
+  steps:
+    - intent: faq_how_plan_trip
+    - action: utter_faq_how_plan_trip
+
+- story: faq - who built you
+  steps:
+    - intent: faq_who_built_you
+    - action: utter_faq_who_built_you
+
+- story: fallback
+  steps:
+    - intent: fallback
+    - action: utter_fallback
+
+- story: greet and respond
+  steps:
+    - intent: greet
+    - action: utter_greet
+
+- story: ask for destination city
+  steps:
+    - action: utter_ask_destination_city
+    - intent: affirm
+    - action: utter_greet
+
+- story: ask for start date
+  steps:
+    - action: utter_ask_start_date
+    - intent: affirm
+    - action: utter_greet
+
+- story: ask for end date
+  steps:
+    - action: utter_ask_end_date
+    - intent: affirm
+    - action: utter_greet
+
+- story: form submit utterance
+  steps:
+    - action: utter_submit
+    - intent: affirm
+    - action: utter_greet
+
+- story: travel info and itinerary
+  steps:
+    - intent: provide_travel_info
+    - action: travel_form
+    - active_loop: travel_form
+    - action: travel_form
+    - active_loop: null
+    - action: action_fetch_weather
+    - action: action_recommend_packing
+    - action: action_plan_itinerary_advanced
