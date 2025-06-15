@@ -12,7 +12,6 @@ The assistant helps users with travel planning, weather updates, itinerary sugge
 * Trip itinerary planning
 * Natural, conversational experience using Rasa NLU + custom actions
 
----
 
 ## 🚀 Live Deployments
 
@@ -21,7 +20,7 @@ The assistant helps users with travel planning, weather updates, itinerary sugge
 | Rasa Server   | [Rasa Render](https://yoliday-rasa.onrender.com)         |
 | Frontend UI   | [Frontend Render](https://yoliday-rasa.onrender.com)                           |
 
----
+
 ## 🔌 Test Rasa Server with cURL
 
 Use the following cURL command to send a message to the deployed Rasa server:
@@ -34,7 +33,6 @@ curl -X POST https://rasa-qor5.onrender.com/webhooks/rest/webhook \
 
 This will return the bot’s response from the Rasa server.
 
----
 
 ## 🐳 Docker Image Links
 
@@ -48,7 +46,6 @@ To pull and run the image:
 docker pull yourusername/yoliday-rasa-backend
 ```
 
----
 
 ## ⚙️ Local Setup Instructions
 
@@ -95,19 +92,17 @@ rasa run actions
 rasa run --enable-api --cors "*" --port 5005
 ```
 
----
 
 ## 🌐 Frontend Setup
 
 ### Deploy on Render
 
-1. Go to [https://render.com](https://render.com) → **New → Static Site**.
+1. Go to [Render](https://render.com) → **New → Static Site**.
 2. Connect your GitHub repo and choose the frontend folder.
 3. Set **Publish Directory** to `frontend`.
 4. Done! Your frontend will be hosted like:
    [Yoliday Frontend](https://yoliday-rasa.onrender.com)
 
----
 
 ## 💬 Sample Conversation
 
@@ -126,7 +121,6 @@ User: Bye
 Bot: Goodbye! Have a great trip!
 ```
 
----
 
 ## 📂 Project Structure
 
@@ -143,7 +137,6 @@ Yoliday-Rasa/
 └── start.sh                # Start command
 ```
 
----
 
 ## 📬 Contact / Credits
 
