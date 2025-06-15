@@ -4,7 +4,6 @@ Welcome to the **Yoliday Travel Assistant Bot**, an intelligent chatbot built us
 
 The assistant helps users with travel planning, weather updates, itinerary suggestions, and packing recommendations.
 
----
 
 ## 📦 Features
 
