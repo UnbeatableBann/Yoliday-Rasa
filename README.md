@@ -53,7 +53,7 @@ docker pull yourusername/yoliday-rasa-backend
 
 ```bash
 git clone https://github.com/UnbeatableBann/Yoliday-Rasa.git
-cd Yoliday-Rasa-Chatbot-backend
+cd Yoliday-Rasa
 ```
 
 ### 2. Create and Activate Virtual Environment
@@ -74,19 +74,28 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 4. Train the Rasa Model
+### 4. Setup your own env
+
+```bash
+OPENWEATHER_API_KEY="Your Own API Key"
+PYTHON_VERSION= "3.10.16"
+PORT= 5005
+SQLALCHEMY_SILENCE_UBER_WARNING= 1
+```
+
+### 5. Train the Rasa Model
 
 ```bash
 rasa train
 ```
 
-### 5. Start the Action Server
+### 6. Start the Action Server
 
 ```bash
 rasa run actions
 ```
 
-### 6. Start the Rasa Server
+### 7. Start the Rasa Server
 
 ```bash
 rasa run --enable-api --cors "*" --port 5005
