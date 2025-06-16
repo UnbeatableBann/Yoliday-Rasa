@@ -1,0 +1,36 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-end_date",
+      "2": "I-end_date",
+      "3": "L-end_date",
+      "4": "U-end_date",
+      "5": "B-location",
+      "6": "I-location",
+      "7": "L-location",
+      "8": "U-location",
+      "9": "B-start_date",
+      "10": "I-start_date",
+      "11": "L-start_date",
+      "12": "U-start_date",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-end_date": 1,
+      "I-end_date": 2,
+      "L-end_date": 3,
+      "U-end_date": 4,
+      "B-location": 5,
+      "I-location": 6,
+      "L-location": 7,
+      "U-location": 8,
+      "B-start_date": 9,
+      "I-start_date": 10,
+      "L-start_date": 11,
+      "U-start_date": 12,
+      "O": 0
+    },
+    "num_tags": 13
+  }
+]

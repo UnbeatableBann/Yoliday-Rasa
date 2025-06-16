@@ -10,6 +10,7 @@ nlu:
     - howdy
     - hi there, travel assistant!
     - hi, ready to plan a trip?
+    - oov
 
 - intent: goodbye
   examples: |
@@ -79,6 +80,8 @@ nlu:
     - blabla
     - jfn
     - ewfnreuvbgos
+    - ased234@#$
+    - @#$#$@
     - Irejnfieruhowitj
     - can you repeat?did it?
     - sorry, I got lost there
@@ -96,15 +99,88 @@ nlu:
     - can you help me plan a last-minute trip to [London](location)?
     - [Jeddah](location) is my dream destination for this summer
     - I want to go to [Hongkong](location) for some adventure
-
+    - Book a trip from [July 10](start_date) to [July 20](end_date) to [Paris](location)
+    - My trip is from [August 1](start_date) to [August 5](end_date) in [Rome](location)
+    - [Sydney](location) for [September 15](start_date) to [September 22](end_date)
+    - [Berlin](location) trip ending [October 15](end_date) starting [October 10](start_date)
+    - Can you help me with travel from [November 2](start_date) until [November 8](end_date) to [Tokyo](location)?
+    - Going on [December 1](start_date) and returning [December 10](end_date) to [Dubai](location)
+    - [March 5](start_date) till [March 12](end_date) in [Cape Town](location)
+    - I want to go to [Bangkok](location) from [April 10](start_date) to [April 15](end_date)
+    - [Istanbul](location) trip [May 1](start_date) to [May 7](end_date)
+    - [June 1](start_date) to [June 10](end_date) in [New York](location)
+    - [London](location) [July 5](start_date) [July 12](end_date)
+    - [Singapore](location) [August 20](start_date) to [August 27](end_date)
+    - [September 10](start_date) to [September 17](end_date) in [Madrid](location)
+    - [Toronto](location) trip between [October 2](start_date) and [October 9](end_date)
+    - [November 15](start_date) until [November 22](end_date) in [Los Angeles](location)
+    - Just [pune](location)
+    - Destination is [pune](location)
+    - I want to go to [pune](location)
+    - [pune](location)
+    - From [June 10](start_date) to [June 15](end_date)
+    - Dates are [June 10](start_date) to [June 15](end_date)
+    - I want to go from [June 10](start_date) to [June 15](end_date)
+    - My travel dates are [June 10](start_date) to [June 15](end_date)
+    - [June 10](start_date) to [June 15](end_date)
+    - [pune](location) [June 10](start_date) to [June 15](end_date)
+    - [June 10](start_date) to [June 15](end_date) in [pune](location)
+    - [pune](location) trip
+    - Going to [pune](location)
+    - [June 10](start_date)
+    - [June 15](end_date)
+    - [pune](location) for [June 10](start_date) to [June 15](end_date)
+    - [June 10](start_date) to [June 15](end_date) [pune](location)
+    - [pune](location) from [June 10](start_date) to [June 15](end_date)
+    - [June 10](start_date) [June 15](end_date) in [pune](location)
+    - [pune](location) between [June 10](start_date) and [June 15](end_date)
+    - [June 10](start_date) and [June 15](end_date) in [pune](location)
+    - [pune](location) trip on [June 10](start_date)
+    - [pune](location) trip on [June 15](end_date)
+    - [June 10](start_date) trip to [pune](location)
+    - [June 15](end_date) trip to [pune](location)
+    - [pune](location) travel dates [June 10](start_date) to [June 15](end_date)
+    - [June 10](start_date) to [June 15](end_date) travel to [pune](location)
+    - [pune](location) travel from [June 10](start_date) to [June 15](end_date)
+    - [pune](location) journey from [June 10](start_date) to [June 15](end_date)
+    - [June 10](start_date) to [June 15](end_date) journey to [pune](location)
+    - [pune](location) travel plans for [June 10](start_date) to [June 15](end_date)
+    - [June 10](start_date) to [June 15](end_date) travel plans in [pune](location)
+    - trip to [pune](location)
+    
 - intent: affirm
   examples: |
     - yes
     - absolutely
     - of course
+    - sure
+    - definitely
+    - yeah
+    - yup
+    - please do
+    - go ahead
+    - that's right
+    - correct
+    - sounds good
+    - I agree
+    - okay
+    - ok
+    - sure thing
 
 - intent: bot_challenge
   examples: |
     - are you a bot?
     - are you human?
     - am I talking to a bot?
+    - are you a real person?
+    - is this a bot?
+    - are you an AI?
+    - are you a chatbot?
+    - are you a computer program?
+    - are you a machine?
+    - are you automated?
+    - are you a virtual assistant?
+    - are you a real assistant?
+    - are you a real human?
+    - is this automated?
+    - is this a real person?

@@ -1,19 +1,27 @@
-recipe: default.v1
 language: en
+recipe: default.v1
 
 pipeline:
 - name: WhitespaceTokenizer
-- name: CRFEntityExtractor
-- name: EntitySynonymMapper
+- name: RegexFeaturizer
 - name: LexicalSyntacticFeaturizer
 - name: CountVectorsFeaturizer
+  OOV_token: oov
+  token_pattern: (?u)\b\w+\b
 - name: CountVectorsFeaturizer
   analyzer: "char_wb"
   min_ngram: 1
   max_ngram: 4
-- name: LogisticRegressionClassifier
+- name: EntitySynonymMapper
+- name: DIETClassifier
+  epochs: 200
+  learning_rate: 0.001
+  constrain_similarities: true
+  entity_recognition: true
+  use_masked_language_model: true
 - name: ResponseSelector
-  epochs: 50
+  epochs: 100
+  constrain_similarities: true
 - name: FallbackClassifier
   threshold: 0.4
   ambiguity_threshold: 0.1
@@ -21,4 +29,11 @@ pipeline:
 policies:
 - name: MemoizationPolicy
 - name: RulePolicy
-assistant_id: 20250615-195340-brutal-lightship
+- name: UnexpecTEDIntentPolicy
+  max_history: 5
+  epochs: 100
+- name: TEDPolicy
+  max_history: 5
+  epochs: 100
+  constrain_similarities: true
+assistant_id: 20250616-131952-lenient-lumber

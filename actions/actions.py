@@ -1,5 +1,6 @@
 import os
 import requests
+import csv
 from typing import Any, Text, Dict, List
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
@@ -7,6 +8,7 @@ from rasa_sdk.events import SlotSet
 from dotenv import load_dotenv
 from rasa_sdk.events import AllSlotsReset
 from sanic.response import json
+from rapidfuzz import process, fuzz
 
 load_dotenv()
 
@@ -25,6 +27,12 @@ class ActionFetchWeather(Action):
         if not location:
             dispatcher.utter_message("I don't know the city. Please specify a destination.")
             return []
+        """# Fuzzy match the location to known cities
+        best_match, score, _ = process.extractOne(location, CITIES, scorer=fuzz.ratio)
+        if score < 80:
+            dispatcher.utter_message(f"Sorry, I couldn't recognize the city '{location}'. Please check the spelling or try another city.")
+            return [SlotSet("weather_description", None)]
+        location = best_match"""
         url = f"http://api.openweathermap.org/data/2.5/weather?q={location}&appid={API_KEY}&units=metric"
 
         try:

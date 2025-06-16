@@ -64,3 +64,30 @@ stories:
     - action: action_fetch_weather
     - action: action_recommend_packing
     - action: action_plan_itinerary_advanced
+
+- story: provide location only
+  steps:
+    - intent: provide_travel_info
+      entities:
+        - location: pune
+    - action: travel_form
+    - active_loop: travel_form
+
+- story: provide dates only
+  steps:
+    - intent: provide_travel_info
+      entities:
+        - start_date: June 10
+        - end_date: June 15
+    - action: travel_form
+    - active_loop: travel_form
+
+- story: provide location and dates in different order
+  steps:
+    - intent: provide_travel_info
+      entities:
+        - location: pune
+        - start_date: June 10
+        - end_date: June 15
+    - action: travel_form
+    - active_loop: travel_form
