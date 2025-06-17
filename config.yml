@@ -3,24 +3,16 @@ recipe: default.v1
 
 pipeline:
 - name: WhitespaceTokenizer
-- name: RegexFeaturizer
-- name: LexicalSyntacticFeaturizer
 - name: CountVectorsFeaturizer
-  OOV_token: oov
-  token_pattern: (?u)\b\w+\b
-- name: CountVectorsFeaturizer
-  analyzer: "char_wb"
-  min_ngram: 1
-  max_ngram: 4
 - name: EntitySynonymMapper
 - name: DIETClassifier
-  epochs: 200
-  learning_rate: 0.001
+  epochs: 50
   constrain_similarities: true
   entity_recognition: true
-  use_masked_language_model: true
+  use_masked_language_model: false
+  batch_size: [32, 64]
 - name: ResponseSelector
-  epochs: 100
+  epochs: 50
   constrain_similarities: true
 - name: FallbackClassifier
   threshold: 0.4
@@ -31,9 +23,9 @@ policies:
 - name: RulePolicy
 - name: UnexpecTEDIntentPolicy
   max_history: 5
-  epochs: 100
+  epochs: 50
 - name: TEDPolicy
   max_history: 5
-  epochs: 100
+  epochs: 50
   constrain_similarities: true
 assistant_id: 20250616-131952-lenient-lumber
