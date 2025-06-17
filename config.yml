@@ -5,12 +5,8 @@ pipeline:
 - name: WhitespaceTokenizer
 - name: CountVectorsFeaturizer
 - name: EntitySynonymMapper
-- name: DIETClassifier
-  epochs: 50
-  constrain_similarities: true
-  entity_recognition: true
-  use_masked_language_model: false
-  batch_size: [32, 64]
+- name: CRFEntityExtractor
+- name: LogisticRegressionClassifier
 - name: ResponseSelector
   epochs: 50
   constrain_similarities: true

@@ -1,0 +1,7110 @@
+[
+  [
+    {
+      "text": "hi",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "hello",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "good",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "morning",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "how",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "are",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "hello",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bot",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "howdy",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "hi",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "there",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "travel",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "assistant",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "hi",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ready",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "plan",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "oov",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "bye",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "see",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "later",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "goodbye",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "have",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nice",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "day",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "catch",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "next",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "time",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "see",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "assistant",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "thanks",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bye",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "see",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "have",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "great",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "what",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "s",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "the",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "weather",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "weather",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Delhi",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "is",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "it",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "raining",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Mumbai",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "today",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "will",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "it",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "snow",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Manali",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "this",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "week",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "do",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "need",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "an",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "umbrella",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Chennai",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "how",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "s",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "the",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "weather",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "New",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "York",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "what",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "s",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "the",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "weather",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Singapore",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "weather",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Toronto",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "how",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "s",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "the",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "weather",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Cape",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Town",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "what",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "should",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "pack",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Manali",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "packing",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "advice",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Kerala",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "what",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "take",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Goa",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "packing",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tips",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "should",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "pack",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "an",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "umbrella",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Chennai",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "recommended",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "travel",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "gear",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Jaipur",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "lightweight",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "packing",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tips",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "London",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "what",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "gadgets",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "should",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bring",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "my",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Moscow",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "should",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bring",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "hat",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Saudi",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Arabia",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "packing",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "advice",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "family",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Dubai",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "What",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "is",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Rasa",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Tell",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "me",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "about",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Rasa",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Explain",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Rasa",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "What",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "does",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Rasa",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "do",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "What",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "is",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "the",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "purpose",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "of",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Rasa",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Why",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "should",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "use",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Rasa",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Is",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Rasa",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "open",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "source",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "How",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "do",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "plan",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "want",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "plan",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "my",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "What",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "are",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "the",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "steps",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "plan",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Tips",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "planning",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "holiday",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "How",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "organize",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "travel",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "itinerary",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Who",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "built",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Who",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "created",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Who",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "made",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Are",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "created",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "by",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "humans",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Which",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "company",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "made",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "ksdjflksdjf",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "blabla",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "jfn",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "ewfnreuvbgos",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "ased234@#",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "@#$#$@",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Irejnfieruhowitj",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "can",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "repeat?did",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "it",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "sorry",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "got",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "lost",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "there",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "m",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "confused",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "friend",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "can",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "explain",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "that",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "again",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "want",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "go",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Goa",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "need",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "travel",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "assistance",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Kolkata",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "December",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "5",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "December",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Manali",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "May",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "1",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "May",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "5",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Traveling",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Ahmedabad",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "between",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "April",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "1",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "and",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "April",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "7",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Cape",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Town",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "December",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "1",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "December",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "8",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "want",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "go",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Spain",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "just",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "relax",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "can",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "help",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "me",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "plan",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "last-minute",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "London",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Jeddah",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "is",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "my",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "dream",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "destination",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "this",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "summer",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "want",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "go",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Hongkong",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "some",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "adventure",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Book",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "July",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "July",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "20",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Paris",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "My",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "is",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "August",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "1",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "August",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "5",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Rome",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Sydney",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "September",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "September",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "22",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Berlin",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ending",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "October",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "starting",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "October",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Can",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "help",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "me",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "with",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "travel",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "November",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "2",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "until",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "November",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "8",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Tokyo",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Going",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "December",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "1",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "and",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "returning",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "December",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Dubai",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "March",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "5",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "till",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "March",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "12",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Cape",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Town",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "want",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "go",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Bangkok",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "April",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "April",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Istanbul",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "May",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "1",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "May",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "7",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "1",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "New",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "York",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "London",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "July",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "5",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "July",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "12",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Singapore",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "August",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "20",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "August",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "27",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "September",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "September",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "17",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Madrid",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Toronto",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "between",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "October",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "2",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "and",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "October",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "9",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "November",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "until",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "November",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "22",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Los",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Angeles",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Just",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Destination",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "is",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "want",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "go",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "From",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Dates",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "are",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "want",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "go",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "My",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "travel",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "dates",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "are",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Going",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "between",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "and",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "and",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "travel",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "dates",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "travel",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "travel",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "journey",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "journey",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "travel",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "plans",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-start_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "June",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "B-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "L-end_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "travel",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "plans",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "pune",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "U-location",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "yes",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "absolutely",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "of",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "course",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "sure",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "definitely",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "yeah",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "yup",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "please",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "do",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "go",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ahead",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "that",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "s",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "right",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "correct",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "sounds",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "good",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "agree",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "okay",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "ok",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "sure",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "thing",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "are",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bot",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "are",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "human",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "am",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "talking",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bot",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "are",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "real",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "person",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "is",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "this",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bot",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "are",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "an",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "AI",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "are",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "chatbot",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "are",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "computer",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "program",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "are",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "machine",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "are",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "automated",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "are",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "virtual",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "assistant",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "are",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "real",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "assistant",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "are",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "real",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "human",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "is",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "this",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "automated",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "is",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "this",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "real",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "person",
+      "pos_tag": null,
+      "pattern": {},
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ]
+]
