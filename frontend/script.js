@@ -15,7 +15,7 @@ async function sendMessage(message) {
   userInput.value = '';
   // Replace the URL below with your backend endpoint
   try {
-    const response = await fetch('https://rasa-qor5.onrender.com/webhooks/rest/webhook', {
+    const response = await fetch('https://rasa-app-e7d2o.ondigitalocean.app/webhooks/rest/webhook', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ sender: 'user', message })
